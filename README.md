@@ -5,19 +5,7 @@ I'm a undergraduate physics student. Tech and rockscience enthusiast.
 
 ### Basic stats
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelferracini&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelferracini&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelferracini&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<br>
 
-### Tools
-<code><img height="30" src="[https://avatars0.githubusercontent.com/u/1525981?s=200&v=4](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-<code><img height="30" src=""></code>
-
-## Social media
-<code><img height="30" src=""></code>
 
