@@ -4,8 +4,5 @@
 I'm a undergraduate physics student. Tech and rockscience enthusiast.
 
 ### Basic stats
-<div>
-  <img align="center" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaelferracini&langs_count=4)"/>
-</div>
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rafaelferracini&langs_count=4)
 
